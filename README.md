@@ -8,7 +8,7 @@
     * mario.c
 
 - [x] PSET 2 - C
-    * readability
+    * readability.c
     * substitution
 
 - [x] PSET 3 - C
